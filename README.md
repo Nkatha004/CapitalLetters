@@ -12,4 +12,4 @@ To run the file capital.l :
 When you run that, you can input any string and the program will be able to give a count of the capital letters used.
 For example:
 
-![Screenshot (98)](https://github.com/Nkatha004/CapitalLetters/assets/69391540/396a94e3-416d-48f6-b6fc-a0f50088affc)
+![Screenshot (99)](https://github.com/Nkatha004/CapitalLetters/assets/69391540/060648f4-9bf5-46c5-b6de-fb50314e1c49)
